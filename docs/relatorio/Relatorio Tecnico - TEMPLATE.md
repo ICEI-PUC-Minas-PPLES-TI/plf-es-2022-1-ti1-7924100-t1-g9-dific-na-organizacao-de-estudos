@@ -56,7 +56,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Na sociedade atual, uma etapa essencial para o desenvolvimento de cada ser humano são os estudos e a aprendizagem. Desde pequeno os seres humanos são condicionados a aprender e aprender cada vez mais, num ciclo infinito. Durante nossas pesquisas, percebemos que uma grande parte das pessoas enfrentam problemas quando se trata de estudos, especialmente aqueles que estão em escolas, cursinhos e faculdades. Muitos acabam se perdendo nos prazos, não sabem o que realmente precisam focar quando começa a acumular matéria e até mesmo não sabem por onde começar quando se trata de um novo tema ou uma nova matéria. ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +76,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Este projeto tem por objetivo facilitar a vida de todos os estudantes, independente de sua área, foco, objetivo com os estudos e entregar uma solução que agregue no trabalho dos docentes. com ferramentas de gestão de prazos e de estudos(individuais e em grupo), planejamento de estudos, dinâmicas e metodologias de estudos variadas, de acordo com cada um dos usuários, além de possibilitar uma melhor organização por parte dos professores em relação às suas aulas e prazos, de forma simples e prática para seus alunos. ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +89,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Muitas pessoas sofrem constantemente com o despreparo para a realização de projetos já programados, isso se deve, em grande parte, por conta da falta de organização destes indivíduos. Como os integrantes do grupo são bem familiarizados com o ambiente escolar e muitos passaram pelas dificuldades explicitadas pelos entrevistados, o tratamento escolhido para este tema foi com base nas entrevistas e análise de qual será a solução mais otimizada. ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +105,9 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Temos por base na seleção de público alvo as seguintes características:
+Pessoas imersas no mundo acadêmico, faixa etária entre 16 e 40 anos, usuários de celulares e mobiles, que tenham interesse em melhorar sua rotina de estudos e agilizar o processo de aprendizagem.
+ ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -162,10 +164,18 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+A maioria dos usuários vê necessidade em ter um app para os ajudar a se organizar, visto que a maioria tem problemas com relação a isso. Tanto na parte de saber o que priorizar nos estudos, quanto na parte de saber dividir o que estudar no dia. A maioria dos usuários já utiliza dos meios tecnológicos para estudar o que irá facilitar o uso do software em desenvolvimento.
+
+“ Eu como ex professora de faculdade, sinto a necessidade em um app que listasse as minhas atividade da mais importante para a menos importante.”
+
+" Eu como pessoa com TDAH quero um aplicativo que me notifique meus prazos, pois esqueço, diariamente, os prazos que eu possuo para entregar minhas atividades."
+
+" Eu como trabalhador e estudante quero um aplicativo que me ajude a me organizar, pois possuo dificuldade em organizar meu tempo para ambas atividades."
+
+" Eu como professor quero um aplicativo para recomendar meus alunos uma maneira de organizar os estudos, eles estão com dificuldades em se organizar para dar atenção para suas matérias."
+
+" Eu como estudante, desejo uma plataforma para manter minhas notas e metas bem visíveis."
+
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -184,18 +194,41 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+Login
+Cada usuário, uma vez que possa ser cadastrado por instituição, precisa realizar o login 
+para que os calendários e atividades possam ser sincronizados com cada um de seus docentes.
+Calendário
+Área de calendário, no qual cada usuário possa acessar de forma rápida suas entregas pendentes e seus planejamentos de estudo, de forma sincronizada com sua instituição ou plano de estudo escolhido.
+Kanban
+Uma aba para kanban personalizável, no qual pode ser incluído vários usuários para trabalhos e projetos em grupo, ou pode ser usado de forma individual para planejamento pessoal. Recomendações de kanban populares
+Boletim
+Área restrita para usuários inscritos em alguma instituição ou curso didático, mostrando suas notas, de projetos entregues, corrigidos, em correção e pendentes. Sistema de notas e repescagens específicas para cada modalidade.
+Plano de estudos
+Área no qual podem ser apresentados, criados e escolhidos planos de estudos. Cada plano de estudo deve sincronizar com o calendário e com o kanban. Nele deverá ser possível a publicação de planos pessoais para o público, e a busca por planos específicos.
+Q&A
+Um pequeno FAQ, de simples perguntas e respostas. Inspiração: brainly.
+Anotações
+Um bloco de notas para cada usuário, dividido em categorias, matérias e outras classificações escolhidas pelo usuário. Possível integração com o calendário.
+Complementares
+Área de conhecimentos complementares. Local onde será possível pesquisar por tópicos/matérias, para poder encontrar videoaulas, documentos e outras fontes de estudos para qualquer assunto, sem o compromisso de um plano de estudo estruturado.
+Utilitários de estudos
+Áreas com ferramentas e utilitários para estudos, como documentos formatados para download, Playlists de músicas, modelos de apresentação, etc
+Notificações
+Área de notificações para saber sobre menções, tarefas pendentes e lançamento de notas e trabalhos
+
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+Modo escuro e alto contraste
+Temas e templates do próprio app para personalização do usuário, incluindo música de fundos e notificações personalizadas
+Integração com o discord
+Integração com o discord para sincronizar menções, chats, chamadas, agendamentos e salas de estudo.
+Integração com deezer/spotify
+Integração com deezer e spotify para selecionar músicas para os estudos, importação de playlists e outros.
+Mudança de contas e segurança
+Sistema para fácil mudança de contas, para melhor organização dentro do app. Sistema de MFA para garantir a segurança de cada conta, especialmente as cadastradas por instituições.
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -307,7 +340,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A equipe será organizada em 6 desenvolvedores e um designer, sendo estes sem nenhuma parte pré definida. Com a organização do backlog, cada um realizará o processo que mais lhe for conveniente. ......
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -322,8 +355,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBMZXB4=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g9-dific-na-organizacao-de-estudos | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
