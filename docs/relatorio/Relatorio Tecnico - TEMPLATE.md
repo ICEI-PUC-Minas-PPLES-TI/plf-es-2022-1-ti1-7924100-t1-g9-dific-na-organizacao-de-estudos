@@ -1,15 +1,24 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  AVICEE: A vida como ela é ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Engenharia de Software ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  
+> Os membros do grupo são: 
+> - Tito Chen
+> - Thales Mattos
+> - André Rodrigues
+> - Vítor de Figueiredo
+> - André Rodrigues
+> - Vítor Fernandes
+> - Arthur Felipe
+>  ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
