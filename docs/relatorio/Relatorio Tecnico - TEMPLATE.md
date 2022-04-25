@@ -143,7 +143,13 @@ Pessoas imersas no mundo acadêmico, faixa etária entre 16 e 40 anos, usuários
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  
+1- Cleiton é um homem de estatura média, cabelos ondulados, 24 anos e está na faculdade. Ele tem o costume de utilizar bastante seu celular para as suas atividades diárias e também seu notebook, é uma pessoa muito alegre e extrovertida, porém prioriza sair para o bar ao invés dos estudos. Seu sonho é ser um grande historiador que viaja mundo a fora, ser famoso na sua área e financeiramente independente. Ele, muitas vezes está mais preocupado com os jogos online do que com a faculdade e apesar de querer ser um grande historiador, é desfocado com relação aos estudos e faculdade. Cleiton é uma pessoa relativamente tímida que precisa beber para socializar, seus amigos dizem que apesar de desfocado ele é extremamente inteligente.
+
+2- Carlos é um jovem de 21 anos, baixo e cabelo cacheado e castanho. Ele usa muito celular, durante sua caminhada, escutando música. Ele joga bastante, tem uma carteira digital e sempre confere ela por não saber quanto está sobrando nela. Seu sonho é ser um médico rico com 2 filhos e comprar um computador de 5 mil reais. Ele gosta de pessoas bem humoradas e relaxadas. Sempre que alguém o ajuda ele fica contente. Ele é uma pessoa bem ansiosa pois medicina é um curso bem concorrido e praticava muitos esportes na época da escola.
+
+3- Soraya é uma professora de escola particular de 35 anos, estatura média, cabelo ondulado e castanho que adora ler e ouvir podcast. Ela utiliza o notebook para a preparação das aulas em casa, além de utilizar o telefone para manter contato com os alunos e tirar suas duvidas basicas. Seu sonho é igualdade no ensino para todos e para isso, ela mantém paciência com os alunos e se preocupada se estão ou não aprendendo, além disso, ela se preocupa sobre a falta de interesse de alguns alunos junto da procrastinação e têm dificuldade em incentivar seus alunos nos estudos.
+......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
