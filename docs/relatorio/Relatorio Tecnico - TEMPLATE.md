@@ -135,7 +135,7 @@ Pessoas imersas no mundo acadêmico, faixa etária entre 16 e 40 anos, usuários
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  ESCREVA AQUI  ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -335,7 +335,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... 
+ A metodologia aplicada pelo grupo foi a metodolgia SCRUM, onde a tentativa de reunir o grupo era feita diariamente. Cada membro escolhia com o que iria trabalhar e foi utilizado o Trello para a organização e o replit para a junção do código. O GitHub foi preenchido ao final das sprints.
+ O Design Thinking foi feito em apenas um dia, já com a divisão de papeis feito nela, tendo o trello para acompanhar o andamento das tarefas.
+......
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -354,6 +357,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
+
+> - Vítor de Figueiredo - Designer
+> - Augusto Baldiotti - Desenvolvedor
+> - Vítor Fernandes - Desenvolvedor
+> - Thales Mattos - Desenvolvedor
+> - André Rodrigues - Desenvolvedor
+> - Tito Chen - Desenvolvedor
+> - Arthur Felipe - Desenvolvedor
 
 ......  A equipe será organizada em 6 desenvolvedores e um designer, sendo estes sem nenhuma parte pré definida. Com a organização do backlog, cada um realizará o processo que mais lhe for conveniente. ......
 
