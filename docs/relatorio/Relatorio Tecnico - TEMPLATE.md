@@ -135,7 +135,7 @@ Pessoas imersas no mundo acadêmico, faixa etária entre 16 e 40 anos, usuários
  
 # Especificações do Projeto
 
-......  ESCREVA AQUI  ......
+......  Este documento tem por objetivo o registro de todo o projeto AVICEE, desde as suas pesquisas e análises de mercado quanto à sua execução e decorrer de seu desenvolvimento, deixando claro cada ação e seus objetivos.  ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -315,7 +315,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+......   ......
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -377,7 +377,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+......  Replit, VisualStudio Code  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -449,11 +449,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Uma aplicação web para resolver problemas de falta de organização através de um calendário interativo ......
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  HTML para produzir o visual
+CSS para otimizar
+Javascript para a interação
+replit para rodar o software .....
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -470,7 +473,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+......  A solução encontrada pelo grupo foi um calendário simples com uma aba de tarefas para digitação......
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
@@ -482,7 +485,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A lista de tarefas é dinâmica possibilitando ao usuário adicionar novas tarefas, apagá-las e sinalizar quais tarefas já foram concluídas. Testes foram realizados, e as tarefas realmente ficam salvas no local storage.
+O boletim foi criado para que o aluno possa colocar as suas notas e se organizar, ele foi testado em todos os aspectos, apresentando responsividade, todos os botões tinham suas funções funcionando corretamente e o processo principal que é o de adicionar as notas também estava funcionando perfeitamente, juntamente com a barra de pesquisa de notas.
+O template e os campos de login e cadastro, o que foi testado foi a interatividade e responsividade da página. O botão de logar e cadastrar, são bloqueados, fazendo com que o seja liberado, apenas após a completude dos campos do formulário.
+ ......
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -490,7 +496,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Foram selecionados foram testes manuais para seguir o plano do usuário ......
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -504,7 +510,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......   ......
 
 > Comente sobre as ferramentas de testes utilizadas.
 > 
@@ -514,7 +520,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Os testes foram feitos manualmente, descobrindo erros e os pontos que deveria ser consertados ......
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
@@ -524,7 +530,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  [COLOQUE AQUI O SEU TEXTO](https://css-tricks.com)
+https://fontawesome.com
+https://www.w3schools.com......
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
