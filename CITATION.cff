@@ -1,0 +1,46 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T1-G9 - Dificuldade na organização dos estudos
+authors:
+  - family-names: Rodrigues de Freitas Faria
+    given-names: André
+  - family-names: Lopes Ferreira
+    given-names: Arthur Felipe
+  - family-names: Baldiotti Mendonça Alvares
+    given-names: Augusto
+  - family-names: de Carvalho Mattos
+    given-names: Thales Eduardo
+  - family-names: Li An Chen
+    given-names: Tito
+  - family-names: de Figueiredo Pereira
+    given-names: Vitor
+  - family-names: Fernandes de Souza
+    given-names: Vitor
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - organização
+  - estudo
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g9-dific-na-organizacao-de-estudos
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14    
